@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apache Spark
 
 Spark is a unified analytics engine for large-scale data processing. It provides
@@ -107,3 +108,6 @@ in the online documentation for an overview on how to configure Spark.
 
 Please review the [Contribution to Spark guide](https://spark.apache.org/contributing.html)
 for information on how to get started contributing to the project.
+=======
+# spark-tutorial
+>>>>>>> 84c5ec302e7961ae679b5484212ebb7b378654a7
